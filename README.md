@@ -1,6 +1,6 @@
 [![Wallaby.js](https://img.shields.io/badge/wallaby.js-configured-green.svg)](https://wallabyjs.com)
 
-<a href='https://www.YouTube.com/CodingTutorials360'>Check Out My YouTube Channel </a>
+<a href='https://www.YouTube.com/CodingTutorials360'>Check Out Dylan Israel's YouTube Channel </a>
 
 # 100AlgorithmsChallenge
 
