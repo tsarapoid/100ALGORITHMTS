@@ -4,7 +4,7 @@ export function adjacentElementsProduct(inputArray: number[]): number {
     outputArray.push(prev * curr)
     return curr
   })
-  outputArray.sort()
+  outputArray.sort((a, b) => a - b)
   return outputArray[outputArray.length - 1]
 }
 
