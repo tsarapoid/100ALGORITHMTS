@@ -1,6 +1,6 @@
 import { allLongestStrings } from "./allLongestStrings"
 
-describe(allLongestStrings.name, () => {
+xdescribe(allLongestStrings.name, () => {
   it("Test 1", () => {
     // arrange
     const data = ["aba", "aa", "ad", "vcd", "aba"]
